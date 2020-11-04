@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'letters_for_lauren_22277.settings')
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "letters_for_lauren_22277.settings")
 
 application = get_wsgi_application()
